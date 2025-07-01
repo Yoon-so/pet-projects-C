@@ -16,6 +16,10 @@ Projects list:
 	KR: 사용자로부터 간단한 입력을 받아 최종 문자열로 출력하는 프로그램입니다. 특징은 사용자가 입력하면 밑줄 문자는 자동으로 사라진다는 점입니다.</pre>
 
 3. Sunlight Travel Time Calculator
+	<pre>
+	EN: The program calculates the time it takes for light from the Sun to reach the Earth. The speed of light is 300,000 kilometers per second, and the distance between the Sun and the Earth is approximately 149,600,000 kilometers.
+	RU: Программа вычисляет время, за которое свет от Солнца достигает Земли. Скорость света составляет 300 000 километров в секунду, а расстояние между Солнцем и Землёй примерно 149 600 000 километров.
+	KR: 프로그램은 태양에서 지구까지 빛이 도달하는 데 걸리는 시간을 계산합니다. 빛의 속도는 초당 30만 킬로미터이며, 태양과 지구 사이의 거리는 약 1억 4960만 킬로미터입니다.</pre>
 
 4. 44
 
