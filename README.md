@@ -86,9 +86,23 @@ Projects list:
 	    큰따옴표, 문자 리터럴, 그리고 \t, \a, \n 같은 특수 문자를 출력하는 방법을 보여줍니다.</pre>
 	<img width="307" height="77" alt="project9" src="https://github.com/user-attachments/assets/a64d80bd-cd41-4ef3-b01c-7763a7cf3826" />
 
-10. fd
+10. Seconds to Minutes Converter
+	<pre>
+	EN: This program takes an input in seconds and converts it into minutes and remaining seconds.
+	RU: Программа принимает значение в секундах и преобразует его в минуты и оставшиеся секунды.
+	KR: 이 프로그램은 초 단위로 입력된 값을 분과 나머지 초로 변환합니다.</pre>
+	<img width="360" height="89" alt="project10" src="https://github.com/user-attachments/assets/48a278f1-388f-46ed-bca4-caf97f370a96" />
 
-11. fd
+11. Change Calculator
+	<pre>
+	EN: This program calculates the change to be returned after a purchase.
+	    The user enters the price of the item and the amount inserted.
+	    The program then displays how many 1000-won bills, 500-won coins and 100-won coins are needed.
+	RU: Программа вычисляет сдачу после покупки. Пользователь вводит цену товара и внесённую сумму.
+	    Затем программа показывает, сколько купюр по 1000 и монет по 500 и 100 вон нужно выдать.
+	KR: 이 프로그램은 구매 후 거스름돈을 계산합니다. 사용자는 물건 값과 투입한 금액을 입력합니다.
+	    프로그램은 1000원 지폐, 500원과 100원 동전의 개수를 출력합니다.</pre>
+	<img width="306" height="145" alt="project11" src="https://github.com/user-attachments/assets/63ce7477-2c62-4d06-b89f-419c3fe148de" />
 
 12. fd
 
