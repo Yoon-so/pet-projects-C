@@ -66,9 +66,25 @@ Projects list:
 	    물리학에서 운동 에너지는 다음 공식으로 계산됩니다: E = mv² / 2.0</pre>
  	![project7](https://github.com/user-attachments/assets/d4e938a9-46c7-4c98-a345-c174f340a662)
 
-8. fd
+8. ASCII Character Incrementation
+	<pre>
+	EN: This program displays the character 'a' and the characters that result from adding 1, 2, and 3 to its ASCII value.
+	    It prints each character alongside its corresponding ASCII code.
+	RU: Программа отображает символ 'a' и символы, полученные прибавлением 1, 2 и 3 к ASCII-коду символа 'a'.
+	    Каждый символ выводится вместе с соответствующим числовым значением ASCII.
+	KR: 이 프로그램은 문자 'a'와 그 ASCII 코드 값에 1, 2, 3을 더했을 때 나오는 문자를 출력합니다.
+	    각 문자는 해당하는 ASCII 코드 값과 함께 출력됩니다.</pre>
+	<img width="296" height="118" alt="project8" src="https://github.com/user-attachments/assets/abb1e5f8-d7f2-4ee7-a043-41f0419fcf78" />
 
-9. fd
+9. Text and Symbols Output
+	<pre>
+	EN: This program prints a line of text containing both regular characters and escape sequences.
+	    It demonstrates how to display quotation marks, character literals, and special escape characters like \t, \a and \n in a formatted string.
+	RU: Программа выводит строку с обычными символами и управляющими последовательностями.
+	    Она показывает, как отобразить кавычки, символьные литералы и специальные управляющие символы, такие как \t, \a и \n, в виде текста.
+	KR: 이 프로그램은 일반 문자와 이스케이프 시퀀스가 포함된 문자열을 출력합니다.
+	    큰따옴표, 문자 리터럴, 그리고 \t, \a, \n 같은 특수 문자를 출력하는 방법을 보여줍니다.</pre>
+	<img width="307" height="77" alt="project9" src="https://github.com/user-attachments/assets/a64d80bd-cd41-4ef3-b01c-7763a7cf3826" />
 
 10. fd
 
