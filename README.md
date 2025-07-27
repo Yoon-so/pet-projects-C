@@ -104,7 +104,15 @@ Projects list:
 	    프로그램은 1000원 지폐, 500원과 100원 동전의 개수를 출력합니다.</pre>
 	<img width="306" height="145" alt="project11" src="https://github.com/user-attachments/assets/63ce7477-2c62-4d06-b89f-419c3fe148de" />
 
-12. fd
+12. Digit Splitter
+	<pre>
+	EN: This program takes an integer less than 100 as input and outputs its tens and ones digits separately.
+	    For example, if the user enters 23, the program will display 2 and 3.
+	RU: Эта программа принимает целое число меньше 100 и выводит отдельно его десятки и единицы.
+	    Например, при вводе 23 программа выведет 2 и 3.
+	KR: 이 프로그램은 100보다 작은 정수를 입력받아 십의 자리와 일의 자리를 각각 출력합니다.
+	    예를 들어, 사용자가 23을 입력하면 2와 3을 차례로 출력합니다.</pre>
+	<img width="307" height="105" alt="project12" src="https://github.com/user-attachments/assets/cbd36948-8097-496e-ae44-41bbd2143136" />
 
 13. df
 
