@@ -114,6 +114,11 @@ Projects list:
 	    예를 들어, 사용자가 23을 입력하면 2와 3을 차례로 출력합니다.</pre>
 	<img width="307" height="105" alt="project12" src="https://github.com/user-attachments/assets/cbd36948-8097-496e-ae44-41bbd2143136" />
 
-13. df
+13. Maximum of Three Numbers
+	<pre>
+	EN: This program takes 3 integer inputs and prints the largest one using the conditional operator (condition) ? true : false.
+	RU: Эта программа запрашивает 3 целых числа и выводит наибольшее из них с использованием условного оператора (условие) ? истина : ложь.
+	KR: 이 프로그램은 3개의 정수를 입력받아 그 중에서 최대값을 출력합니다. 조건연산자 (조건) ? 실행1 : 실행2를 사용하여 구현됩니다.</pre>
+	<img width="303" height="87" alt="project13" src="https://github.com/user-attachments/assets/e1448b51-6602-4f14-9e85-638ec04a4007" />
 
 14. fd
